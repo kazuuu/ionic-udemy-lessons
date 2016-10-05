@@ -1,0 +1,30 @@
+.has-header {
+  top: 75px;
+}
+
+.header7 {
+  height: 75px;
+}
+
+.bar .titlekaz {
+  height: auto;
+}
+
+ion-header-bar img.logo {
+  position:absolute;
+  left: 0;
+  right: 0;
+  margin:0 auto;
+  height: 60px;
+  top:50%;
+  transform:translateY(-50%);
+}
+
+h2.story-title {
+  white-space: normal;
+  height: 3.6em;
+}
+
+.platform-ios {
+  margin-top: 100px;
+}
