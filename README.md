@@ -1,6 +1,7 @@
 Para rodar os apps no ionic, basta ir na pasta dos apps e rodar:
   $ ionic serve
 
+
 ****************************
 [Part 1] Single-View App
     - my-reddit
